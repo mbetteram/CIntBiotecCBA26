@@ -13,3 +13,6 @@ Poster 2do Congreso Internacional Biotecnología CBA2026
 
 Verónica Marconi: [veronica.marconi@unc.edu.ar ](mailto:veronica.marconi@unc.edu.ar )
 
+![Poster_PNG](./poster_biotec.png)
+
+
